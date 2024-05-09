@@ -8,14 +8,6 @@
 
 Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnologías:
 
-- HTML 
-- CCS3/SASS
-- Python/Flask
-- Javascript/Node/ReactJS
-- Java
-- SQL/MySQL y NoSQL/Firebase
-
-
 <table>
     <tbody>
         <tr>
