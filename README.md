@@ -1,3 +1,4 @@
+<center>
 ## ¡Bienvenido a mi perfil de GitHub! 
 📒 Estudiante de Desarrollador de Software 💻
 
@@ -52,4 +53,4 @@ Estoy orientado en mejorar mis habilidades en:
 - Desarrollo web con Django
 - PHP/Laravel
 - Java/Spring
-
+</center>
