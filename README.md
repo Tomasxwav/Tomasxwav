@@ -34,13 +34,13 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
         </tr>
         <tr>
             <td align="center" width="60">
-                <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50" height="auto"> <br>Firebase 
+                <img src="https://www.gstatic.com/devrel-devsite/prod/v8710cb4731a368cb758d972abd8e9129d9a2b5cf087d107be78174bbc0c595e6/firebase/images/touchicon-180.png" width="50" height="auto"> <br>Firebase 
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>SQL
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="auto"> <br>React
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="auto"> <br>ReactJS
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="auto"><br>JavaScript
