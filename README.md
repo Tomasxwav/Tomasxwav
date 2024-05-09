@@ -23,7 +23,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="auto">  <br>HTML 
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="auto"><br>CSS/SASS
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30" height="auto"><br>CSS/SASS
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="auto">  <br>Python/Flask 
