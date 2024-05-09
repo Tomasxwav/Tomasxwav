@@ -18,8 +18,8 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 |                 |                 |                 |                 |                 |
 |-----------------|-----------------|-----------------|-----------------|-----------------|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="auto"><br>CSS/SASS | <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="auto">  <br>HTML | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="auto">  <br>Python/Flask | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="50" height="auto"> <br>Java | 
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50" height="auto"> <br>SQL | <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50" height="auto"> <br>Firebase |  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="auto">  <br>JavaScript |  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>SQL | |
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50" height="auto"> <br>SQL | <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="50" height="auto"> <br>Firebase |  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="auto"><br>JavaScript |
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>SQL|
 
 ## Tecnologías que Utilizo
 
