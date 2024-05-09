@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Tomas Martinez
-📒 Estudiante de Desarrollador de Software 💻
 ## ¡Bienvenido a mi perfil de GitHub! 
+📒 Estudiante de Desarrollador de Software 💻
+
 
 ## 📝 Tecnologias en las que me especializo 👨‍💻 
 
