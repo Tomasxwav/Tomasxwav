@@ -29,7 +29,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="auto">  <br>Python/Flask 
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="30" height="auto"> <br>Java
+                <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="auto"> <br>Java
             </td>
         </tr>
         <tr>
