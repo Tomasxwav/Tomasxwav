@@ -52,9 +52,12 @@ Estoy orientado en mejorar mis habilidades en:
 - C# .Net
 - Java/Spring
 
-## 🧑 _Contactame_
+## 📞 Contactame 📲
 
-* [Email](mailto:tomas_martinez14@hotmail.com)
-* [Whatsapp](https://wa.me/528116700635)
-* [LinkdIn](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADnez-a4470b132/) 
+* [Email](mailto:tomas_martinez14@hotmail.com) 📧
+* [Whatsapp](https://wa.me/528116700635) 📱💬
+* [LinkdIn](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADnez-a4470b132/) 👥💻
 
+
+---
+⌨️ con ❤️ por [Tomasxwav](https://github.com/Tomasxwav) 😊
