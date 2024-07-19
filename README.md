@@ -40,7 +40,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
     </tbody>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Tomasxwav/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomasxwav&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Tomasxwav/convoychat">
