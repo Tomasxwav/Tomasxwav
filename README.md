@@ -40,8 +40,8 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
     </tbody>
 </table>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Tomasxwav">
-  <img height=200 align="center" src="https://github.com/Tomasxwav/github-readme-stats" />
+<a href="https://github.com/Tomasxwav/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tomasxwav" />
 </a>
 <a href="https://github.com/Tomasxwav/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomasxwav&layout=compact&langs_count=8&card_width=320" />
