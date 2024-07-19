@@ -52,9 +52,7 @@ Estoy orientado en mejorar mis habilidades en:
 - C# .Net
 - Java/Spring
 
-## Construido con 🛠️
-
-## _Contactame_
+## 🧑 _Contactame_
 
 * [Email](mailto:tomas_martinez14@hotmail.com)
 * [Whatsapp](https://wa.me/528116700635)
