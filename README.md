@@ -6,7 +6,7 @@
 ## 📝 Tecnologias en las que me especializo 👨‍💻 
 
 Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnologías:
-<center>
+<div align='center'>
 <table>
     <tbody>
         <tr>
@@ -41,7 +41,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact)
-<center/>
+</div>
 
 
 ## 🌱 Estoy Aprendiendo
