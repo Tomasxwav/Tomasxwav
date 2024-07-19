@@ -40,10 +40,6 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
     </tbody>
 </table>
 
-<a href="https://github.com/Tomasxwav/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&hide_progress=true&theme=radical" />
-</a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomasxwav&repo=github-readme-stats)](https://github.com/Tomasxwav/github-readme-stats)
 </div>
 
 ## 🌱 Estoy Aprendiendo
@@ -56,4 +52,11 @@ Estoy orientado en mejorar mis habilidades en:
 - C# .Net
 - Java/Spring
 
+## Construido con 🛠️
+
+## _Contactame_
+
+* [Email](mailto:tomas_martinez14@hotmail.com)
+* [Whatsapp](https://wa.me/528116700635)
+* [LinkdIn](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADnez-a4470b132/) 
 
