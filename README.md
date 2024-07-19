@@ -41,7 +41,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact)
-</center>
+<center/>
 
 
 ## 🌱 Estoy Aprendiendo
