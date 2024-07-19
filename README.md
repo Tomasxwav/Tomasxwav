@@ -61,6 +61,6 @@ Estoy orientado en mejorar mis habilidades en:
 
 ---
 <div align="right">
-    ⌨️ con ❤️ por <a href="https://github.com/Tomasxwav">Tomasxwav</a>😊
+    ⌨️ con ❤️ por <a href="https://github.com/Tomasxwav">Tomasxwav</a> 😊
 </div>
 
