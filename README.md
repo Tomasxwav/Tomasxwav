@@ -40,11 +40,12 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
     </tbody>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/Tomasxwav/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tomasxwav&show_icons=true&theme=radical" />
+()
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Tomasxwav/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomasxwav&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 
