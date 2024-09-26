@@ -23,7 +23,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="auto"> <br>Java
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="50" height="auto"> <br>C#
+                <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C#
             </td>
         </tr>
         <tr>
