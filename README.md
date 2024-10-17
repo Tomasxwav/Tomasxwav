@@ -56,7 +56,7 @@ Estoy orientado en mejorar mis habilidades en:
 - Angular
 - Desarrollo web con Django
 - C# .Net
-- Java/Spring
+- Java
 
 ## 📞 Contactame 📲
 
