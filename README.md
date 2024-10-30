@@ -40,7 +40,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="auto"><br>JavaScript
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="50" height="auto"> <br>Angular
+                <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-wbsw4aug.png" width="50" height="auto"> <br>NextJS
             </td>
         </tr>
     </tbody>
