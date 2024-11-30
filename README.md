@@ -25,6 +25,9 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
             <td align="center" width="60">
                 <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C#
             </td>
+            <td align="center" width="60">
+                <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="50" height="auto"> <br>Tailwind
+            </td>
         </tr>
         <tr>
             <td align="center" width="60">
