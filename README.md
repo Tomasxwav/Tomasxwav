@@ -59,10 +59,8 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 Estoy orientado en mejorar mis habilidades en:
 
 - ReactNative
-- Angular
-- Desarrollo web con Django
-- C# .Net
-- Java
+- Vue
+- Django
 
 ## 📞 Contactame 📲
 
