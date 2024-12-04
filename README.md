@@ -51,7 +51,10 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
         </tr>
     </tbody>
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact&bg_color=#9e9e9e)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact)
+
+
 </div>
 
 
