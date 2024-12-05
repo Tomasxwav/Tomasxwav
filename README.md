@@ -13,8 +13,8 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
             <td align="center" width="60">
                 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="auto">  <br>HTML 
             </td>
-            <td align="center" width="60">
-                <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="auto" height="auto"> <br>Java
+            <td align="center" width="80">
+                <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C#
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>SQL
@@ -34,7 +34,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="auto"><br>CSS/SASS
             </td>
             <td align="center" width="60">
-                <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="auto" height="auto"> <br>C#
+                <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="auto" height="auto"> <br>Java
             </td>
             <td align="center" width="60">
                 <img src="https://www.gstatic.com/devrel-devsite/prod/v8710cb4731a368cb758d972abd8e9129d9a2b5cf087d107be78174bbc0c595e6/firebase/images/touchicon-180.png" width="50" height="auto"> <br>Firebase 
