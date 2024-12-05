@@ -31,7 +31,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
         </tr>
         <tr>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="auto"><br>CSS/SASS
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="auto"><br>CSS/SASS
             </td>
             <td align="center" width="60">
                 <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C#
