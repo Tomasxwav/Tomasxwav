@@ -63,12 +63,6 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 
 ## 🌱 Estoy Aprendiendo 🌱
 
-Estoy orientado en mejorar mis habilidades en:
-
-- ReactNative
-- Vue
-- Django
-
 ## 📞 Contactame 📲
 
 * [Email](mailto:tomas_martinez14@hotmail.com) 📧
