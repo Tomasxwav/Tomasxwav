@@ -60,9 +60,6 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 
     
 
-
-## 🌱 Estoy Aprendiendo 🌱
-
 ## 📞 Contactame 📲
 
 * [Email](mailto:tomas_martinez14@hotmail.com) 📧
