@@ -51,6 +51,9 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
             <td align="center" width="60">
                 <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-wbsw4aug.png" width="50" height="auto"> <br>NextJS
             </td>
+            <td align="center" width="60">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="50" height="auto"> <br>ElectronJS
+            </td>
         </tr>
     </tbody>
 </table>
