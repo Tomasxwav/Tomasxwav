@@ -59,7 +59,6 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 </table>
     
 
-![Tomasxwav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasxwav&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact&theme=radical)
 
