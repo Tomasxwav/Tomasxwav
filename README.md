@@ -40,7 +40,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="auto" height="auto"> <br>Java
             </td>
             <td align="center" width="60">
-                <img src="https://www.gstatic.com/devrel-devsite/prod/v8710cb4731a368cb758d972abd8e9129d9a2b5cf087d107be78174bbc0c595e6/firebase/images/touchicon-180.png" width="50" height="auto"> <br>Firebase 
+                <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" width="40" height="auto"> <br>Firebase 
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="auto">  <br>Python/Flask 
