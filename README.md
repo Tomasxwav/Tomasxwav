@@ -14,10 +14,10 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="auto">  <br>HTML 
             </td>
             <td align="center" width="80">
-                <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C#
+                <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" width="50" height="auto"> <br>C# .NET
             </td>
             <td align="center" width="60">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>SQL
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="auto"><br>PostgreSQL
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width="50" height="auto"> <br>Tailwind
@@ -49,7 +49,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="auto"> <br>ReactJS
             </td>
             <td align="center" width="60">
-                <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-wbsw4aug.png" width="50" height="auto"> <br>NextJS
+                <img src="https://skillicons.dev/icons?i=next" width="50" height="auto"> <br>NextJS
             </td>
             <td align="center" width="60">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="50" height="auto"> <br>ElectronJS
@@ -58,8 +58,8 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
     </tbody>
 </table>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasxwav&layout=compact&theme=radical)
 
 
 </div>
