@@ -87,7 +87,9 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 <div>
     <!-- ![My GitHub Game](game.gif) -->
 <div/>
----
+    
+![](https://komarev.com/ghpvc/?username=tomasxwav&base=926)
+
 <div align="right">
     ⌨️ con ❤️ por <a href="https://github.com/Tomasxwav">Tomas Martínez</a> 
 </div>
