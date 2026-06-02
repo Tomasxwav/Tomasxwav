@@ -64,7 +64,11 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 
 </div>
 
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Tomasxwav]/[Tomasxwav]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Tomasxwav]/[Tomasxwav]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[Tomasxwav]/[Tomasxwav]/output/[game-name]-contribution-graph.svg">
+</picture>
     
 
 ## 📞 Contactame 📲
