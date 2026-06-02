@@ -73,7 +73,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 * [Whatsapp](https://wa.me/528116700635) 📱💬
 * [LinkdIn](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADnez-a4470b132/) 👥💻
 
-
+![My GitHub Game](game.gif)
 ---
 <div align="right">
     ⌨️ con ❤️ por <a href="https://github.com/Tomasxwav">Tomas Martínez</a> 
