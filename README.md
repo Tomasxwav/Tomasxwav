@@ -64,11 +64,7 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 
 </div>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph.svg">
-</picture>
+
     
 
 ## 📞 Contactame 📲
@@ -76,6 +72,16 @@ Actualmente, me he enfocado en proyectos web con el uso de las siguientes tecnol
 * [Email](mailto:tomas_martinez14@hotmail.com) 📧
 * [Whatsapp](https://wa.me/528116700635) 📱💬
 * [LinkdIn](https://www.linkedin.com/in/tom%C3%A1s-mart%C3%ADnez-a4470b132/) 👥💻
+
+## 📞 Actividad en github 📲
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tomasxwav&bg_color=0a0d10&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/Tomasxwav/Tomasxwav/output/breakout-contribution-graph.svg">
+</picture>
 
 ![My GitHub Game](game.gif)
 ---
